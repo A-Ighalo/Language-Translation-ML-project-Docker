@@ -1,0 +1,10 @@
+.cache/
+.npm/
+.keras/
+.local/
+.jupyter/
+.python/
+.ipynb_checkpoints/
+test/
+captions_english.srt
+captions_french.srt
