@@ -7,3 +7,6 @@ This project is a video captions translation software built using Hugging Face T
 *  Custom Docker image based on Jupyter TensorFlow Notebook. 
 *  Supports multiple languages for caption translation.
 *  Deployable to DockerHub for easy access.
+
+#### Lessons from here : https://youtu.be/-l7YocEQtA0?si=UqKnTfJIpQgTJbpj
+
